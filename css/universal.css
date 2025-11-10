@@ -1,0 +1,283 @@
+/* Small (smaller than 640px)
+Medium (641px to 1007px)
+Large (1008px and larger) */
+
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+:root{
+    scrollbar-color: #828890 black;
+    --offblack: #252525;
+    --offwhite: #efefef;
+    --light-purple: #ffaee4;
+    --purple: #e486c5;
+    --dark-purple: #bf699d;
+    --darker-purple: #d97db8;
+    --grey: #a2a9b1;
+    --margin: 1.5rem;
+    --padding: 1.5rem;
+    --border-1: 1px solid #FFF;
+    --center-img: 0 auto 0 auto;
+}
+
+@font-face{
+    font-family: Minecraft; 
+    src: local("Minecraft"), url("/fonts/Minecraft.woff2");
+    font-display: swap;
+}
+
+body{
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.875em;
+    color: var(--offwhite);
+    background: #1e0526 url("/images/background.webp");
+    background-size: 1%;
+    backdrop-filter: brightness(70%);
+}
+
+main{
+    min-height: 100vh;
+}
+
+.main-container{
+    padding: var(--padding);
+    border: var(--border-1);
+    margin: var(--margin);
+    background-color: var(--offblack);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a:hover img{
+    filter: drop-shadow(1px -1px 10px var(--purple)) opacity(95%) blur(0.5px);
+}
+
+header{
+    border: var(--border-1);
+    border-width: 0 0 1px 0;
+    background-color: var(--offblack);
+    text-align: center;
+}
+
+.banner{
+    background: transparent url("/images/banner-lowres.webp") no-repeat 50% 56%;
+    background-size: cover;
+    height: 8rem;
+}
+
+header nav{
+    margin: 1.3rem 0 1.3rem 0;
+}
+
+header li, footer li{
+    display: inline-block;
+}
+
+header ul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+header li{
+    font-size: 1.07rem;
+}
+
+footer li{
+    padding: 0 0.5rem 0 0.5rem;
+}
+
+footer li:not(:last-of-type){
+    border-right: 1px solid #FFF;
+}
+
+footer span{
+    display: block;
+}
+
+footer span:not(:last-of-type){
+    margin-bottom: 0.5rem;
+}
+
+header li:not(:last-of-type){
+    margin-right: 1rem;
+}
+
+header span{
+    font-family: Minecraft;
+    letter-spacing: 3px;
+    font-size: 2.5rem;
+}
+
+header span::before{
+    content: " ⋆ ✧ ☆ ";
+}
+
+header span::after{
+    content: " ☆ ✧ ⋆";
+}
+
+footer{
+    border: var(--border-1);
+    border-width: 1px 0 0 0;
+    background-color: var(--offblack);
+    text-align: center;
+    padding: 0.5rem;
+}
+
+li{
+    list-style-position: inside;
+}
+
+a{
+    color: var(--purple); 
+}
+
+a:visited{
+    color: var(--darker-purple);
+}
+
+a:is(:hover, :focus){
+    color: var(--light-purple);
+}
+
+a:visited:is(:hover, :focus){
+    color: var(--dark-purple);
+}
+
+h1{
+    margin: 2rem 0 2rem 0;
+    text-align: center;
+    font-family: Minecraft;
+    letter-spacing: 3px;
+}
+
+h2{
+    background-color: var(--purple);
+    color: var(--offblack);
+}
+
+h2, h3, h4, h5, h6{
+    margin: 1rem 0 1rem 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2::before{
+    content: "\2726";
+    margin-right: 5px;
+}
+
+h3{
+    font-size: 125%;
+    border-bottom: 1px dotted var(--grey);
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+h4{
+    text-transform: uppercase;
+    padding-left: 2rem;
+}
+
+h4::before{
+    content: "--->";
+    margin-right: 5px;
+}
+
+h2:not(:first-of-type){
+    margin-top: 3rem;
+}
+
+main li{
+    margin: 0.5rem 0 1rem 0;
+}
+
+p{
+    margin: 0.5rem 0 1rem 0;
+    padding: 0 0 0 1rem;
+}
+
+p::first-letter{
+    padding-left: 1rem;
+}
+
+.card{
+    border: 1px solid var(--grey);
+}
+
+.card h2{
+    background-color: transparent;
+    color: var(--offwhite);
+}
+
+.card p{
+    margin: 1rem 0 1rem 0;
+}
+
+.card-title{
+    font-family: Minecraft;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.card-stats{
+    color: var(--grey);
+}
+
+@media screen and (max-width: 640px){
+    body{
+        text-align: center;
+    }
+
+    .main-container{
+        width: 100%;
+        margin: var(--margin) 0 var(--margin) 0;
+        border-width: 1px 0 1px 0;
+        padding: 0.8rem;
+    }
+
+    h2::after{
+        content: "\2726";
+        margin-left: 5px;
+    }
+
+    h4::before{
+        content: "<---";
+        margin-right: 5px;
+    }
+    
+    h4::after{
+        content: "--->";
+        margin-left: 5px;
+    }
+
+    header span{
+        font-size: 2rem;
+    }
+    
+    header span::before{
+        content: "⋆ ☆ ⋆";
+    }
+    
+    header span::after{
+        content: "⋆ ☆ ⋆";
+    }
+
+    h3, h4, p{
+        padding: 0;
+    }
+}
+
+@media screen and (min-width: 641px){
+    .banner{
+        background-image: url("/images/banner-highres.webp");
+    }
+}

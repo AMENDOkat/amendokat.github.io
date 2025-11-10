@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on AMENDOKAT</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Homepage on AMENDOKAT</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 13:03:08 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site information</title>
+      <link>http://localhost:1313/site/</link>
+      <pubDate>Sat, 08 Nov 2025 13:03:08 -0300</pubDate>
+      <guid>http://localhost:1313/site/</guid>
+      <description>&lt;h2 id=&#34;about-this-site&#34;&gt;About this site&lt;/h2&gt;&#xA;&lt;p&gt;This site is written in Markdown and built using the static site generator &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;. Hosted on &lt;a href=&#34;https://neocities.org/&#34;&gt;Neocities&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Designed for &lt;a href=&#34;https://www.firefox.com/en-US/?redirect_source=mozilla-org&#34;&gt;Firefox&lt;/a&gt; with &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Originally built on Windows and later on the &lt;a href=&#34;https://www.linuxmint.com/&#34;&gt;Linux Mint&lt;/a&gt; OS.&lt;/p&gt;&#xA;&lt;p&gt;Open source, all code and assets are available on the &lt;a href=&#34;&#34;&gt;Github repository&lt;/a&gt;. You are allowed to use and edit the code of this website freely.&#xA;You are not allowed to edit any of the artwork or writings of my ownership featured here, reposts and other reproductions are allowed as long as credit is given. If you wish to edit my artwork or writings for any reason, please contact me so we can discuss it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My work</title>
+      <link>http://localhost:1313/my_work/</link>
+      <pubDate>Sat, 23 Aug 2025 23:03:27 -0300</pubDate>
+      <guid>http://localhost:1313/my_work/</guid>
+      <description>&lt;h2 id=&#34;my-art&#34;&gt;My Art&lt;/h2&gt;&#xA;&lt;style&gt;&#xA;    img{&#xA;        object-fit: contain;&#xA;    }&#xA;    &#xA;    .gallery-grid{&#xA;        display: flex;&#xA;        flex-wrap: wrap;&#xA;        justify-content: center;&#xA;        row-gap: 0.2rem;&#xA;        column-gap: 0.5rem;&#xA;        margin: 1rem 0 1rem 0;&#xA;    }&#xA;&#xA;    .page-link{&#xA;        display: flex;&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;    }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div class=&#34;gallery-grid&#34;&gt;&#xA;    &#xA;    &#xA;        &#xA;&#xA;    &#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
