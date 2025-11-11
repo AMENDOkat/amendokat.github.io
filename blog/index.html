@@ -42,6 +42,43 @@
     
     <main>
         
+<style>
+    ul{
+        list-style-type: none;
+    }
+
+    li{
+        display: flex;
+    }
+
+    .item-details{
+        margin-left: 0.8rem;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .item-title{
+        font-size: 1.1rem;
+    }
+
+    .item-stats{
+        color: var(--grey);
+    }
+
+    .item-tags{
+        display: block;
+    }
+
+    .item-tags a:not(:last-of-type){
+    border-right: var(--border-1);
+    }
+
+    .item-tags a{
+        padding: 0 0.2rem 0 0.2rem;
+        font-size: 0.8rem;
+    }
+</style>
+
 <div class="main-container">
     <h1>Blog</h1>
     <hr>

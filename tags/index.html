@@ -42,11 +42,93 @@
     
     <main>
         
+<style>
+    ul{
+        list-style-type: none;
+    }
+
+    li{
+        display: flex;
+    }
+
+    .item-details{
+        margin-left: 0.8rem;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .item-title{
+        font-size: 1.1rem;
+    }
+
+    .item-stats{
+        color: var(--grey);
+    }
+
+    .item-tags{
+        display: block;
+    }
+
+    .item-tags a:not(:last-of-type){
+    border-right: var(--border-1);
+    }
+
+    .item-tags a{
+        padding: 0 0.4rem 0 0.2rem;
+        font-size: 0.8rem;
+    }
+</style>
+
 <div class="main-container">
     <h1>Tags</h1>
     <hr>
     
     <ul>
+        
+            <li>
+                
+                <div class="item-details">
+                    <a class="item-title" href="/tags/my-little-pony/">My Little Pony</a>
+                    
+                        <span class="item-cap"></span>
+                    
+                    <span class="item-stats">
+                       Estimated reading time 0 minutes | Posted Nov 10 2025 | Last Modified 
+                    <span class="item-tags">
+                        
+                    </span>
+                </div>
+            </li>
+        
+            <li>
+                
+                <div class="item-details">
+                    <a class="item-title" href="/tags/pony/">Pony</a>
+                    
+                        <span class="item-cap"></span>
+                    
+                    <span class="item-stats">
+                       Estimated reading time 0 minutes | Posted Nov 10 2025 | Last Modified 
+                    <span class="item-tags">
+                        
+                    </span>
+                </div>
+            </li>
+        
+            <li>
+                
+                <div class="item-details">
+                    <a class="item-title" href="/tags/human/">Human</a>
+                    
+                        <span class="item-cap"></span>
+                    
+                    <span class="item-stats">
+                       Estimated reading time 0 minutes | Posted Nov 10 2025 | Last Modified 
+                    <span class="item-tags">
+                        
+                    </span>
+                </div>
+            </li>
         
     </ul>
 </div>
