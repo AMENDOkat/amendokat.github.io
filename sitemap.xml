@@ -2,59 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/art_tags/</loc>
-    <lastmod>2025-11-10T23:49:36-03:00</lastmod>
+    <loc>https://example.org/post_tags/my-little-pony/</loc>
+    <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art_tags/my-little-pony/</loc>
-    <lastmod>2025-11-10T23:49:36-03:00</lastmod>
+    <loc>https://example.org/posts/introduction/</loc>
+    <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art_tags/pony/</loc>
-    <lastmod>2025-11-10T21:39:48-03:00</lastmod>
+    <loc>https://example.org/posts/test/</loc>
+    <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_work/art_gallery/startrix/</loc>
-    <lastmod>2025-11-10T21:39:48-03:00</lastmod>
+    <loc>https://example.org/post_tags/</loc>
+    <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_work/art_gallery/flutterdash/</loc>
-    <lastmod>2025-11-10T23:49:36-03:00</lastmod>
+    <loc>https://example.org/post_tags/thoughts/</loc>
+    <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art_tags/human/</loc>
-    <lastmod>2025-11-10T23:49:36-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post_tags/my-little-pony/</loc>
-    <lastmod>2025-11-10T17:24:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction/</loc>
-    <lastmod>2025-11-10T17:24:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2025-11-10T17:24:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post_tags/</loc>
-    <lastmod>2025-11-10T17:24:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post_tags/thoughts/</loc>
-    <lastmod>2025-11-10T17:24:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/site/</loc>
+    <loc>https://example.org/site/</loc>
     <lastmod>2025-11-12T00:18:56-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://example.org/blog/</loc>
     <lastmod>2025-11-10T16:04:25-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_work/</loc>
+    <loc>https://example.org/my_work/</loc>
     <lastmod>2025-11-10T23:49:36-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about_me/</loc>
-    <lastmod>2025-08-23T23:02:59-03:00</lastmod>
+    <loc>https://example.org/about_me/</loc>
+    <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2025-11-10T23:49:36-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-11-10T16:04:25-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/art_tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
