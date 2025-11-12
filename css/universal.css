@@ -2,6 +2,7 @@
 Medium (641px to 1007px)
 Large (1008px and larger) */
 
+/* universal styles for site */
 *{
     margin: 0; 
     padding: 0; 
@@ -209,29 +210,7 @@ p::first-letter{
     padding-left: 1rem;
 }
 
-.card{
-    border: 1px solid var(--grey);
-}
-
-.card h2{
-    background-color: transparent;
-    color: var(--offwhite);
-}
-
-.card p{
-    margin: 1rem 0 1rem 0;
-}
-
-.card-title{
-    font-family: Minecraft;
-    text-transform: uppercase;
-    font-size: 1.5rem;
-}
-
-.card-stats{
-    color: var(--grey);
-}
-
+/* tags for 'page, media_page, gallery, list' */
 .tags{
     padding: 0 0.18rem 0 0.18rem;
 }
@@ -239,6 +218,28 @@ p::first-letter{
 .tags-small{
     padding: 0 0.2rem 0 0.2rem;
     font-size: 0.8rem;
+}
+
+/* page stats for 'page, media_page' */
+.page-stats{
+    color: var(--grey);
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+}
+
+/* page controls for 'page, media_page' */
+.page-controls{
+    background-color: #373737;
+    margin: var(--margin);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.page-controls-content{
+    display: flex;
+    flex-direction: column;
 }
 
 @media screen and (max-width: 640px){

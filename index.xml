@@ -6,27 +6,20 @@
     <description>Recent content in Homepage on AMENDOKAT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 21:39:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 00:18:56 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>startrix :3</title>
-      <link>http://localhost:1313/my_work/art_gallery/artwork/startrix/</link>
-      <pubDate>Mon, 10 Nov 2025 21:39:48 -0300</pubDate>
-      <guid>http://localhost:1313/my_work/art_gallery/artwork/startrix/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Flutterdash</title>
-      <link>http://localhost:1313/my_work/art_gallery/artwork/flutterdash/</link>
+      <title>my neigh-est blog</title>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Mon, 10 Nov 2025 17:24:37 -0300</pubDate>
-      <guid>http://localhost:1313/my_work/art_gallery/artwork/flutterdash/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;h2 id=&#34;welcome-neigh-sayers&#34;&gt;welcome neigh-sayers!&lt;/h2&gt;&#xA;&lt;p&gt;Hello ponies of the world&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum luctus nulla, sed luctus orci ultrices eget. Sed rhoncus justo lectus, nec lobortis purus maximus in. Praesent felis risus, pretium ac lectus nec, commodo dictum ante. Nunc at massa ut odio venenatis volutpat eu id arcu. Donec nec quam eu augue pulvinar posuere vel cursus est. Integer blandit, ex sit amet pellentesque rhoncus, turpis elit dictum ligula, id ultrices tellus lorem sit amet diam. Suspendisse eget finibus dolor. Etiam accumsan, tortor in molestie dictum, nibh lectus dignissim odio, vitae malesuada nisl urna vitae lorem. Cras varius mauris nulla, eu ultrices nisi vestibulum a. Phasellus tortor sapien, lacinia sit amet lectus dignissim, ullamcorper volutpat eros. Quisque viverra urna in lacus ullamcorper, eu feugiat risus sagittis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>my neighew blog</title>
-      <link>http://localhost:1313/posts/pages/introduction/introduction/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Mon, 10 Nov 2025 17:24:37 -0300</pubDate>
-      <guid>http://localhost:1313/posts/pages/introduction/introduction/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>&lt;h2 id=&#34;welcome-neigh-sayers&#34;&gt;welcome neigh-sayers!&lt;/h2&gt;&#xA;&lt;p&gt;Hello ponies of the world&lt;/p&gt;</description>
     </item>
     <item>
@@ -42,6 +35,13 @@
       <pubDate>Sat, 23 Aug 2025 23:03:27 -0300</pubDate>
       <guid>http://localhost:1313/my_work/</guid>
       <description>&lt;h2 id=&#34;my-art&#34;&gt;My Art&lt;/h2&gt;&#xA;&lt;h3 id=&#34;portfolio&#34;&gt;Portfolio&lt;/h3&gt;&#xA;&lt;p&gt;To see all of my work visit the &lt;a href=&#34;art_gallery&#34;&gt;Art Gallery&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about_me/</link>
+      <pubDate>Sat, 23 Aug 2025 23:02:59 -0300</pubDate>
+      <guid>http://localhost:1313/about_me/</guid>
+      <description>&lt;h2 id=&#34;whos-the-webmaster&#34;&gt;Who&amp;rsquo;s the webmaster?&lt;/h2&gt;&#xA;&lt;p&gt;My name is Arthur, but online I go by Kat. Pronouns he/him. I&amp;rsquo;m an artist, I mostly work with digital art, fan works but I have plans for OC content in the future. I&amp;rsquo;ve done a lot of MLP fan art in the past, specifically for the little pony pegasus Cozy Glow. I&amp;rsquo;m autistic and My Little Pony has been my special interest for years now, and I don&amp;rsquo;t see that changing any time soon. I&amp;rsquo;ve had a number of hyperfixations in the past ranging from Azula from Avatar the Last Airbender, The Phantom of the Opera, The Wizard of Oz, Amity Blight from The Owl House and True Crime. &lt;em&gt;Please talk to me about any of them.&lt;/em&gt; Besides for my drawings, I haven&amp;rsquo;t really published anything, though I&amp;rsquo;ve written a few stories and coded a few things (mainly this website and all it&amp;rsquo;s drafts) - I would really like to invest more time in those in the future, but don&amp;rsquo;t have any concrete plans to do so as of now.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

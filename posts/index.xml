@@ -9,10 +9,17 @@
     <lastBuildDate>Mon, 10 Nov 2025 17:24:37 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>my neighew blog</title>
-      <link>http://localhost:1313/posts/pages/introduction/introduction/</link>
+      <title>my neigh-est blog</title>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Mon, 10 Nov 2025 17:24:37 -0300</pubDate>
-      <guid>http://localhost:1313/posts/pages/introduction/introduction/</guid>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;h2 id=&#34;welcome-neigh-sayers&#34;&gt;welcome neigh-sayers!&lt;/h2&gt;&#xA;&lt;p&gt;Hello ponies of the world&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum luctus nulla, sed luctus orci ultrices eget. Sed rhoncus justo lectus, nec lobortis purus maximus in. Praesent felis risus, pretium ac lectus nec, commodo dictum ante. Nunc at massa ut odio venenatis volutpat eu id arcu. Donec nec quam eu augue pulvinar posuere vel cursus est. Integer blandit, ex sit amet pellentesque rhoncus, turpis elit dictum ligula, id ultrices tellus lorem sit amet diam. Suspendisse eget finibus dolor. Etiam accumsan, tortor in molestie dictum, nibh lectus dignissim odio, vitae malesuada nisl urna vitae lorem. Cras varius mauris nulla, eu ultrices nisi vestibulum a. Phasellus tortor sapien, lacinia sit amet lectus dignissim, ullamcorper volutpat eros. Quisque viverra urna in lacus ullamcorper, eu feugiat risus sagittis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>my neighew blog</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 10 Nov 2025 17:24:37 -0300</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>&lt;h2 id=&#34;welcome-neigh-sayers&#34;&gt;welcome neigh-sayers!&lt;/h2&gt;&#xA;&lt;p&gt;Hello ponies of the world&lt;/p&gt;</description>
     </item>
   </channel>
