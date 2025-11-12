@@ -232,6 +232,15 @@ p::first-letter{
     color: var(--grey);
 }
 
+.tags{
+    padding: 0 0.18rem 0 0.18rem;
+}
+
+.tags-small{
+    padding: 0 0.2rem 0 0.2rem;
+    font-size: 0.8rem;
+}
+
 @media screen and (max-width: 640px){
     body{
         text-align: center;

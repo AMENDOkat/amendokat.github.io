@@ -53,8 +53,10 @@
 
     .item-details{
         margin-left: 0.8rem;
-        display: flex;
-        flex-direction: column;
+    }
+
+    .item-title, .item-cap, .item-stats{
+        display: block;
     }
 
     .item-title{
@@ -63,19 +65,6 @@
 
     .item-stats{
         color: var(--grey);
-    }
-
-    .item-tags{
-        display: block;
-    }
-
-    .item-tags a:not(:last-of-type){
-    border-right: var(--border-1);
-    }
-
-    .item-tags a{
-        padding: 0 0.4rem 0 0.2rem;
-        font-size: 0.8rem;
     }
 </style>
 

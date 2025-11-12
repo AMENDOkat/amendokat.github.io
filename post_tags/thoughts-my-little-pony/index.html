@@ -6,13 +6,13 @@
 <meta name="author" content="Amendokat">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Posts &#x2605; AMENDOKAT">
+<meta property="og:title" content="Thoughts, My Little Pony &#x2605; AMENDOKAT">
 <meta property="og:site_name" content="AMENDOKAT">
 
 <meta name="description" content="">
 <meta property="og:description" content="">
 
-<title>Posts &#x2605; AMENDOKAT</title>
+<title>Thoughts, My Little Pony &#x2605; AMENDOKAT</title>
 <link rel="icon" type="image/x-icon" href="/images/logo.png">
 <link rel="stylesheet" href="/css/universal.css">
 </head>
@@ -53,10 +53,8 @@
 
     .item-details{
         margin-left: 0.8rem;
-    }
-
-    .item-title, .item-cap, .item-stats{
-        display: block;
+        display: flex;
+        flex-direction: column;
     }
 
     .item-title{
@@ -66,43 +64,26 @@
     .item-stats{
         color: var(--grey);
     }
+
+    .item-tags{
+        display: block;
+    }
+
+    .item-tags a:not(:last-of-type){
+    border-right: var(--border-1);
+    }
+
+    .item-tags a{
+        padding: 0 0.2rem 0 0.2rem;
+        font-size: 0.8rem;
+    }
 </style>
 
 <div class="main-container">
-    <h1>Posts</h1>
+    <h1>Thoughts, My Little Pony</h1>
     <hr>
     
     <ul>
-        
-            <li>
-                
-                
-                    <img src="/images/chicken.webp" alt="" width="100px" height="100px">
-                
-
-                <div class="item-details">
-                    <a class="item-title" href="/posts/pages/introduction/introduction/">my neighew blog</a>
-                    
-                    
-                        <span class="item-cap">My neighew (neigh &#43; new) blog.</span>
-                    
-                    
-                    
-                        
-                        
-                            
-                                [<a class="tags" href='/post_tags/thoughts'>thoughts</a>]
-                            
-                                [<a class="tags" href='/post_tags/my-little-pony'>my little pony</a>]
-                            
-                                <span class="item-stats">
-                                    Estimated reading time 1 minute(s) | Posted Nov 10 2025 | Last Modified Nov 10 2025
-                                </span>
-                        
-                        
-                    </span>
-                </div>
-            </li>
         
     </ul>
 </div>

@@ -6,14 +6,28 @@
     <description>Recent content in Homepage on AMENDOKAT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 17:24:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 21:39:48 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>startrix :3</title>
+      <link>http://localhost:1313/my_work/art_gallery/artwork/startrix/</link>
+      <pubDate>Mon, 10 Nov 2025 21:39:48 -0300</pubDate>
+      <guid>http://localhost:1313/my_work/art_gallery/artwork/startrix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutterdash</title>
+      <link>http://localhost:1313/my_work/art_gallery/artwork/flutterdash/</link>
+      <pubDate>Mon, 10 Nov 2025 17:24:37 -0300</pubDate>
+      <guid>http://localhost:1313/my_work/art_gallery/artwork/flutterdash/</guid>
+      <description></description>
+    </item>
     <item>
       <title>my neighew blog</title>
       <link>http://localhost:1313/posts/pages/introduction/introduction/</link>
       <pubDate>Mon, 10 Nov 2025 17:24:37 -0300</pubDate>
       <guid>http://localhost:1313/posts/pages/introduction/introduction/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;welcome-neigh-sayers&#34;&gt;welcome neigh-sayers!&lt;/h2&gt;&#xA;&lt;p&gt;Hello ponies of the world&lt;/p&gt;</description>
     </item>
     <item>
       <title>Site information</title>
