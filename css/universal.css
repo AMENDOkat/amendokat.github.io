@@ -26,7 +26,7 @@ Large (1008px and larger) */
 
 @font-face{
     font-family: Minecraft; 
-    src: local("Minecraft"), url("/fonts/Minecraft.woff2");
+    src: local("Minecraft"), url("fonts/Minecraft.woff2");
     font-display: swap;
 }
 
@@ -35,7 +35,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.875em;
     color: var(--offwhite);
-    background: #1e0526 url("/images/background.webp");
+    background: #1e0526 url("images/background.webp");
     background-size: 1%;
     backdrop-filter: brightness(70%);
 }
@@ -68,7 +68,7 @@ header{
 }
 
 .banner{
-    background: transparent url("/images/banner-lowres.webp") no-repeat 50% 56%;
+    background: transparent url("images/banner-lowres.webp") no-repeat 50% 56%;
     background-size: cover;
     height: 8rem;
 }
@@ -289,6 +289,6 @@ p::first-letter{
 
 @media screen and (min-width: 641px){
     .banner{
-        background-image: url("/images/banner-highres.webp");
+        background-image: url("images/banner-highres.webp");
     }
 }
