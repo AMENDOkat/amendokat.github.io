@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/amendokat/posts/introduction/</loc>
+    <loc>https://amendokat.github.io/amendokat/posts/introduction/</loc>
     <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/posts/test/</loc>
+    <loc>https://amendokat.github.io/amendokat/posts/test/</loc>
     <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/site/</loc>
+    <loc>https://amendokat.github.io/amendokat/site/</loc>
     <lastmod>2025-11-12T00:18:56-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/blog/</loc>
+    <loc>https://amendokat.github.io/amendokat/blog/</loc>
     <lastmod>2025-11-10T16:04:25-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/my_work/</loc>
+    <loc>https://amendokat.github.io/amendokat/my_work/</loc>
     <lastmod>2025-11-10T23:49:36-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/about_me/</loc>
+    <loc>https://amendokat.github.io/amendokat/about_me/</loc>
     <lastmod>2025-11-12T17:37:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/posts/</loc>
+    <loc>https://amendokat.github.io/amendokat/posts/</loc>
     <lastmod>2025-11-10T23:49:36-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/</loc>
+    <loc>https://amendokat.github.io/amendokat/</loc>
     <lastmod>2025-11-10T16:04:25-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amendokat/categories/</loc>
+    <loc>https://amendokat.github.io/amendokat/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/amendokat/tags/</loc>
+    <loc>https://amendokat.github.io/amendokat/tags/</loc>
   </url>
 </urlset>
