@@ -240,7 +240,91 @@ button:focus-visible{
     text-decoration: underline;
 }
 
-/* tags for 'page, media_page, gallery, list' */
+/* LIST STYLE */
+.page-collection{
+    list-style-type: none;
+}
+
+.page-collection .page-item{
+    border: 1px solid var(--grey);
+    padding: 5px 5px 5px 5px;
+    display: flex;
+}
+
+/* Chickens */
+.chickens-text{
+    color: var(--grey);
+    font-style: italic;
+}
+
+.chickens-img{
+    width: 100px;
+    height: 100px;
+}
+
+/* Style for microblog type post  */
+.post{
+    border: var(--border-1);
+    margin: 1rem 0 1rem 0;
+}
+
+.post-top-section{
+    padding: 1rem;
+    border-bottom: 1px dotted var(--grey);
+}
+
+.post-title{
+    font-weight: bold;
+}
+
+.post h2{
+    background-color: transparent;
+    color: var(--off-white);
+    padding-left: 1rem;
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+/* Details about page */
+.item-details{
+    margin-left: 0.8rem;
+}
+
+/* Page cover image */
+.item-cover-container{
+    max-width: 100px;
+    max-height: 100px;
+    width: 100%;
+}
+
+.item-cover-container img{
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+/* Details that utilize summary  */
+.item-details p, .item-details p::first-letter{
+    padding: 0;
+    margin: 0;
+}
+
+.item-title, .item-caption, .item-stats{
+    display: block;
+}
+
+.item-title{
+    font-size: 1.1rem;
+}
+
+.item-stats, .item-stats .tags{
+    color: var(--grey);
+}
+
+.item-stats span{
+    display: block;
+}
+
+/* tags for 'home, page, media_page, gallery, list' */
 .tags{
     padding: 0 0.18rem 0 0.18rem;
 }
@@ -250,6 +334,7 @@ button:focus-visible{
     font-size: 0.8rem;
 }
 
+/* PAGE STYLES */
 /* page stats for 'page, media_page' */
 .page-stats{
     color: var(--grey);
@@ -261,10 +346,10 @@ button:focus-visible{
 /* page controls for 'page, media_page' */
 .page-controls{
     background-color: #373737;
-    margin: var(--margin);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    text-align: center;
 }
 
 .page-controls-content{
@@ -282,10 +367,6 @@ button:focus-visible{
         font-size: 1.5rem;
     }
 
-    body{
-        text-align: center;
-    }
-
     li{
         padding-left: 0;
     }
@@ -295,6 +376,10 @@ button:focus-visible{
         margin: var(--margin) 0 var(--margin) 0;
         border-width: 1px 0 1px 0;
         padding: 0.8rem;
+    }
+
+    h2{
+        text-align: center;
     }
 
     h2::after{
@@ -322,6 +407,21 @@ button:focus-visible{
 
     h3, h4, p{
         padding: 0;
+    }
+
+/* LIST MOBILE STYLES */
+    .post{
+        border-width: 1px 0 1px 0;
+    }        
+
+    .page-collection .page-item{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border: none;
+        border-bottom: var(--border-1);
+        padding-bottom: 0.5rem;
     }
 }
 
