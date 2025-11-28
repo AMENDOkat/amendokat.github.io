@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Website Exclusive on AMENDOKAT</title>
-    <link>http://localhost:1313/art_tags/website-exclusive/</link>
-    <description>Recent content in Website Exclusive on AMENDOKAT</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/art_tags/website-exclusive/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Despite Everything, I Still Love You</title>
-      <link>http://localhost:1313/art_gallery/artwork/despiteeverything/</link>
-      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art_gallery/artwork/despiteeverything/</guid>
-      <description>&lt;p&gt;Cover commission for IGIBAB&amp;rsquo;s amazing story &lt;a href=&#34;https://www.fimfiction.net/story/583504/despite-everything-i-still-love-you&#34;  title=&#34;Despite Everything, I Still Love You&#34;  &gt;&#xA;  Despite Everything, I Still Love You&#xA;&lt;/a&gt;&#xA;&#xA;  &lt;sup title=&#34;External link&#34; class=&#34;external-link-marker&#34;&gt;&amp;#10138;&lt;/sup&gt;&#xA;&#xA;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Website Exclusive on AMENDOKAT</title><link>https://amendokat.github.io/art_tags/website-exclusive/</link><description>Recent content in Website Exclusive on AMENDOKAT</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 22:29:56 -0300</lastBuildDate><atom:link href="https://amendokat.github.io/art_tags/website-exclusive/index.xml" rel="self" type="application/rss+xml"/><item><title>Despite Everything, I Still Love You</title><link>https://amendokat.github.io/art_gallery/artwork/despiteeverything/</link><pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate><guid>https://amendokat.github.io/art_gallery/artwork/despiteeverything/</guid><description>&lt;p&gt;Cover commission for IGIBAB&amp;rsquo;s amazing story &lt;a href="https://www.fimfiction.net/story/583504/despite-everything-i-still-love-you" title="Despite Everything, I Still Love You" &gt;
+ Despite Everything, I Still Love You
+&lt;/a&gt;
+
+ &lt;sup title="External link" class="external-link-marker"&gt;&amp;#10138;&lt;/sup&gt;
+
+&lt;/p&gt;</description></item></channel></rss>
